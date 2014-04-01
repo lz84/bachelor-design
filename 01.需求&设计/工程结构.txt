@@ -1,0 +1,16 @@
+appconsole
+appconsoleWeb  --- 后台管理工程
+Demo
+DemoWeb --- 示例工程
+ufp_auth --- 授权管理√
+ufp_bpm ---  工作流√
+ufp_cathe --- 缓存模块√
+ufp_context --- 系统上下文管理√
+ufp_core --- 系统共通√
+ufp_dao --- 数据访问对象√
+ufp_ext --- 系统扩展对象（org、user）
+ufp_facade --- 使用者门面
+ufp_stat --- 系统监控
+ufp_sysvar --- 系统变量√
+ufp_web --- web用√
+
